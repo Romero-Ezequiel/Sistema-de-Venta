@@ -39,5 +39,13 @@ El sistema deberá contar con cuatro módulos bien identificados:
 
 • Visualizar el total vendido con cada tarjeta.
 
+# Menú de Inicio:
+Cuando el sistema arranca deberá dar la opción al usuario de ingresar a uno de los 4 módulos anteriormente mencionados.
+# Ejemplo: 
+¿A qué módulo desea ingresar?
+1) Productos y Promociones
+2) Compras 
+3) Tarjetas de Crédito
+4) Salir del Sistema
 
 
