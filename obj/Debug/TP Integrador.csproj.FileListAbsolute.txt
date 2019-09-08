@@ -1,0 +1,5 @@
+C:\Users\Usuario\Desktop\TP Integrador\obj\Debug\TP Integrador.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\TP Integrador\bin\Debug\TP Integrador.exe
+C:\Users\Usuario\Desktop\TP Integrador\bin\Debug\TP Integrador.pdb
+C:\Users\Usuario\Desktop\TP Integrador\obj\Debug\TP Integrador.exe
+C:\Users\Usuario\Desktop\TP Integrador\obj\Debug\TP Integrador.pdb
