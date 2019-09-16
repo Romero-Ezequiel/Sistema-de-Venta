@@ -69,7 +69,9 @@ Para dar de alta un producto en el sistema, el usuario deberá completar los dat
 3) Listar Productos
 4) Listar Promociones
 5) Volver
+
 1
+
 Ingrese tipo de producto: Remera
 Ingrese marca de producto: Adidas
 Ingrese talle de producto: M
@@ -84,7 +86,9 @@ Ingrese precio del producto: 200
 3) Listar Productos
 4) Listar Promociones
 5) Volver
+
 2
+
 Seleccione un producto para la promo:
 1) [Producto Tipo=Short, Marca=Adidas, Talle=L, Precio=$560,24, Descuento=0%] 
 2) [Producto Tipo=Botin, Marca=Adidas, Talle=42, Precio=$3254,5, Descuento=0%]
@@ -93,7 +97,9 @@ Seleccione un producto para la promo:
 5) [Producto Tipo=Botin, Marca=Diporto, Talle=38, Precio=$1564,24, Descuento=0%]
 6) [Producto Tipo=Remera, Marca=Nike, Talle=XL, Precio=$4586, Descuento=0%]
 7) [Producto Tipo=Remera, Marca=Adidas, Talle=M, Precio=$3546, Descuento=0%]
+
 5
+
 Indique porcentaje de descuento: 30
 
 # Sub-Opción 3) Listar Productos:
@@ -105,7 +111,9 @@ Indique porcentaje de descuento: 30
 3) Listar Productos
 4) Listar Promociones
 5) Volver
+
 3
+
 1) [Producto Tipo=Short, Marca=Adidas, Talle=L, Precio=$560,24, Descuento=0%] 
 2) [Producto Tipo=Botin, Marca=Adidas, Talle=42, Precio=$3254,5, Descuento=0%]
 3) [Producto Tipo=Remera, Marca=LeCoqSportif, Talle=M, Precio=$347,3, Descuento=0%]
@@ -122,7 +130,9 @@ Indique porcentaje de descuento: 30
 3) Listar Productos
 4) Listar Promociones
 5) Volver
+
 4
+
 1) [Producto [Producto Tipo=Short, Marca=Diporto, Talle=38, Precio=$1564,24, Descuento=30%] 
 2) [Producto [Producto Tipo=Botin, Marca=Adidas, Talle=L, Precio=$560,24, Descuento=25%]
 
@@ -151,7 +161,9 @@ Indique porcentaje de descuento: 30
 2) Quitar productos del carro
 3) Listar productos en carro
 4) Volver 
+
 1
+
 Seleccione un producto para agregar al carro:
 1) [Producto Tipo=Short, Marca=Adidas, Talle=L, Precio=$560,24, Descuento=0%] 
 2) [Producto Tipo=Botin, Marca=Adidas, Talle=42, Precio=$3254,5, Descuento=0%]
@@ -170,7 +182,9 @@ Indique cantidad a comprar: 1
 2) Quitar producto del carro
 3) Listar productos en carro
 4) Volver
+
 3
+
 1) Cantidad:1[Producto Tipo=Remera, Marca=LeCoqSportif, Talle=M, Precio=$347,3, Descuento=0%] 
 2) Cantidad:2[Producto Tipo=Short, Marca=Adidas, Talle=L, Precio=$560,2, Descuento=0%]
 3) Cantidad:3[Producto Tipo=Buzo, Marca=Nike, Talle=XS, Precio=$847,4, Descuento=0%]
