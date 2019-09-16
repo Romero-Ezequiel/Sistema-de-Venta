@@ -194,6 +194,7 @@ Total de compra: $4010,0
 
 
 # Demostración final 
+![image](https://user-images.githubusercontent.com/54491030/64930646-221ad580-d809-11e9-84c0-7ddcfece49a6.png)
 
 
 
