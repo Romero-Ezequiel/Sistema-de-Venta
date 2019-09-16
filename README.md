@@ -75,6 +75,121 @@ Ingrese marca de producto: Adidas
 Ingrese talle de producto: M
 Ingrese precio del producto: 200
 
+# Sub-Opción 2) Dar de alta promoción:
+# Ejemplo:
+¿Qué desea hacer?
+
+1) Dar de alta Productos
+2) Dar de alta Promociones
+3) Listar Productos
+4) Listar Promociones
+5) Volver
+2
+Seleccione un producto para la promo:
+1) [Producto Tipo=Short, Marca=Adidas, Talle=L, Precio=$560,24, Descuento=0%] 
+2) [Producto Tipo=Botin, Marca=Adidas, Talle=42, Precio=$3254,5, Descuento=0%]
+3) [Producto Tipo=Remera, Marca=LeCoqSportif, Talle=M, Precio=$347,3, Descuento=0%]
+4) [Producto Tipo=Buzo, Marca=Nike, Talle=XS, Precio=$847,4, Descuento=0%]
+5) [Producto Tipo=Botin, Marca=Diporto, Talle=38, Precio=$1564,24, Descuento=0%]
+6) [Producto Tipo=Remera, Marca=Nike, Talle=XL, Precio=$4586, Descuento=0%]
+7) [Producto Tipo=Remera, Marca=Adidas, Talle=M, Precio=$3546, Descuento=0%]
+5
+Indique porcentaje de descuento: 30
+
+# Sub-Opción 3) Listar Productos:
+# Ejemplo
+¿Qué desea hacer?
+
+1) Dar de alta Productos
+2) Dar de alta Promociones
+3) Listar Productos
+4) Listar Promociones
+5) Volver
+3
+1) [Producto Tipo=Short, Marca=Adidas, Talle=L, Precio=$560,24, Descuento=0%] 
+2) [Producto Tipo=Botin, Marca=Adidas, Talle=42, Precio=$3254,5, Descuento=0%]
+3) [Producto Tipo=Remera, Marca=LeCoqSportif, Talle=M, Precio=$347,3, Descuento=0%]
+4) [Producto Tipo=Buzo, Marca=Nike, Talle=XS, Precio=$847,4, Descuento=0%]
+5) [Producto Tipo=Botin, Marca=Diporto, Talle=38, Precio=$1564,24, Descuento=0%]
+6) [Producto Tipo=Remera, Marca=Nike, Talle=XL, Precio=$4586, Descuento=0%]
+7) [Producto Tipo=Remera, Marca=Adidas, Talle=M, Precio=$3546, Descuento=0%]
+
+# Sub-Opción 4) Listar Promociones:
+# Ejemplo
+
+1) Dar de alta Productos
+2) Dar de alta Promociones
+3) Listar Productos
+4) Listar Promociones
+5) Volver
+4
+1) [Producto [Producto Tipo=Short, Marca=Diporto, Talle=38, Precio=$1564,24, Descuento=30%] 
+2) [Producto [Producto Tipo=Botin, Marca=Adidas, Talle=L, Precio=$560,24, Descuento=25%]
+
+# Opción 2) Módulo de Compras:
+# Ejemplo
+¿Qué desea hacer?
+
+1) Agregar productos al carro
+2) Identificar Cliente
+3) Volver
+
+# Sub-Opción 1) Agregar productos al carro:
+# Ejemplo
+¿Qué desea hacer?
+
+1) Agregar productos al carro
+2) Quitar productos del carro 
+3) Listar productos en carro
+4) Volver
+
+# Sub-sub-Opción 1) Agregar productos al carro:
+# Ejemplo
+¿Qué desea hacer?
+
+1) Agregar producto al carro
+2) Quitar productos del carro
+3) Listar productos en carro
+4) Volver 
+1
+Seleccione un producto para agregar al carro:
+1) [Producto Tipo=Short, Marca=Adidas, Talle=L, Precio=$560,24, Descuento=0%] 
+2) [Producto Tipo=Botin, Marca=Adidas, Talle=42, Precio=$3254,5, Descuento=0%]
+3) [Producto Tipo=Remera, Marca=LeCoqSportif, Talle=M, Precio=$347,3, Descuento=0%]
+4) [Producto Tipo=Buzo, Marca=Nike, Talle=XS, Precio=$847,4, Descuento=0%]
+5) [Producto Tipo=Botin, Marca=Diporto, Talle=38, Precio=$1564,24, Descuento=0%]
+3
+Indique cantidad a comprar: 1
+
+# Sub-sub-Opción 2) Quitar productos del carro (similar al anterior)
+# Sub-sub-Opción 3) Listar productos en carro:
+# Ejemplo
+¿Qué desea hacer?
+
+1) Agregar producto al carro
+2) Quitar producto del carro
+3) Listar productos en carro
+4) Volver
+3
+1) Cantidad:1[Producto Tipo=Remera, Marca=LeCoqSportif, Talle=M, Precio=$347,3, Descuento=0%] 
+2) Cantidad:2[Producto Tipo=Short, Marca=Adidas, Talle=L, Precio=$560,2, Descuento=0%]
+3) Cantidad:3[Producto Tipo=Buzo, Marca=Nike, Talle=XS, Precio=$847,4, Descuento=0%]
+Total de compra: $4010,0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
