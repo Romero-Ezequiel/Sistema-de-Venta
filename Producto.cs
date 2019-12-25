@@ -4,9 +4,7 @@ using System.Collections.Generic;
 
 namespace TP_Integrador
 {
-	/// <summary>
-	/// Description of Producto.
-	/// </summary>
+
 	public class Producto
 	{
 		private string tipoProd;
