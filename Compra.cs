@@ -4,10 +4,6 @@ using System.Collections.Generic;
 
 namespace TP_Integrador
 {
-	/// <summary>
-	/// Description of Compra.
-	/// </summary>
-	
 	public class Compra
 	{
 		private ArrayList listaProductos = new ArrayList();
