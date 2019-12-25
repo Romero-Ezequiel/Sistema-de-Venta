@@ -4,9 +4,7 @@ using System.Collections.Generic;
 
 namespace TP_Integrador
 {
-	/// <summary>
-	/// Description of Tarjeta.
-	/// </summary>
+	
 	public class Tarjeta
 	{
 		private string nombre;
