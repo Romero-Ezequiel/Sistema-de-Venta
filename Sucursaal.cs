@@ -4,9 +4,6 @@ using System.Collections.Generic;
 
 namespace TP_Integrador
 {
-	/// <summary>
-	/// Description of Sucursal.
-	/// </summary>
 	
 	//Excepcion por Cadena Vacia
 	class ExcepcionPorCadenaVacia:Exception{}
