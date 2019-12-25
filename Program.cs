@@ -8,6 +8,7 @@ namespace TP_Integrador
 	{
 		public static void Main(string[] args)
 		{
+			//Aca instancio la clase sucursal para que funcione el programa
 			Sucursaal s1 = new Sucursaal();
 			s1.menuTM();
 			Console.ReadKey(true);
