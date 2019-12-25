@@ -4,9 +4,7 @@ using System.Collections.Generic;
 
 namespace TP_Integrador
 {
-	/// <summary>
-	/// Description of Cliente.
-	/// </summary>
+	
 	public class Cliente
 	{
 		private string nombre;
@@ -18,7 +16,7 @@ namespace TP_Integrador
 		
 		//BUSQUEDA SECUENCIAL
 		private bool estadoCli;
-//		private int[] clit=new int[1];
+		//private int[] clit=new int[1];
 		
 		public string Nombre
 		{
