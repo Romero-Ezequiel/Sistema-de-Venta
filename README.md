@@ -14,7 +14,7 @@ Es un TP Final de la materia algoritmos y programación de _[Unaj](https://www.u
 
 ### Autor ✒️
 
-* **Desarrollado por: Ezequiel Romero** - *Trabajo de Algoritmos y Programación en C#*
+* **Desarrollado por: Ezequiel Romero** 
 ### Demostración final 
 ![Recordit GIF](http://g.recordit.co/I9Eno3hsXb.gif)
 
