@@ -14,7 +14,7 @@ Es un TP Final de la materia algoritmos y programación de _[Unaj](https://www.u
 
 ### Autor ✒️
 
-* ** _Ezequiel Romero_** 
+* _Ezequiel Romero_
 ### Demostración final 
 ![Recordit GIF](http://g.recordit.co/I9Eno3hsXb.gif)
 
